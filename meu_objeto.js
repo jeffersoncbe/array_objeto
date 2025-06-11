@@ -12,3 +12,4 @@ let curso = {
 }
 
 console.log(curso.cargahoraria)
+console.log(curso.sala)

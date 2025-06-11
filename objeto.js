@@ -32,3 +32,5 @@ console.log(pessoa)
 console.log(pessoa.dataNascimento)
 console.log(pessoa.endereco.bairro)
 console.log(pessoa.contato.email)
+
+//ao chamar uma propriedade que contém  uma funcao, deve-se colocar os parenteses
